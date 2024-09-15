@@ -9,3 +9,10 @@ Get all informations here: [https://cibola.world](https://cibola.world)
 Visit us on [Patreon](https://patreon.com/Cibola)
 
 See the [Foundry package](https://foundryvtt.com/packages/cibola8) 
+
+## Installation
+
+Paste this url into the module installer of Foundry or search for the module cibola 8
+```
+https://raw.githubusercontent.com/Cibola8/cibola8/main/module.json
+```
