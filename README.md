@@ -2,7 +2,14 @@
 
 Cibola 8 is the Foundry-Module for VTT Masters that will truly change your world! Working with every virtual tabletop System, it helps you to prepare next-level adventures, great-master your library and create universes out of your imagination within the drop of a dice! tep through the gate and enter the hidden realms of Cibola 8, where powerful AI tools converge into a creative arsenal that transcends the boundaries of imagination in Virtual Tabletops. With its magical Foundry integration, it opens a gateway to all your favorite systems, granting you access to a world where every adventure turns to legacies. With a single thought, conjure images, in-game assets, and texts that breathe life into your stories. Break the barriers of language, uncover the hidden, and craft new universes where every detail has become reality
 
+[![Cibola8](https://img.youtube.com/vi/D6kDqNDsTVU/0.jpg)](https://www.youtube.com/watch?v=D6kDqNDsTVU)
+[![Cibola8](https://img.youtube.com/vi/eKqE_W4gBsw/0.jpg)](https://www.youtube.com/watch?v=eKqE_W4gBsw)
+[![Cibola8](https://img.youtube.com/vi/mAZD6PU9D0I/0.jpg)](https://www.youtube.com/watch?v=mAZD6PU9D0I)
 [![Cibola8](https://img.youtube.com/vi/8EVi30Ul_dg/0.jpg)](https://www.youtube.com/watch?v=8EVi30Ul_dg)
+[![Cibola8](https://img.youtube.com/vi/jRLEowFBhLc/0.jpg)](https://www.youtube.com/watch?v=jRLEowFBhLc)
+[![Cibola8](https://img.youtube.com/vi/-dK6nbItmUE/0.jpg)](https://www.youtube.com/watch?v=-dK6nbItmUE)
+[![Cibola8](https://img.youtube.com/vi/cED0n6zPEDo/0.jpg)](https://www.youtube.com/watch?v=cED0n6zPEDo)
+
 
 ## Features:
 
