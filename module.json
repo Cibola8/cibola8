@@ -47,6 +47,11 @@
     "verified": "12",
     "maximum": "12"
   },
+   "documentTypes": {
+    "JournalEntryPage": {
+      "threadgpt": { }
+    }
+  },
   "media": [
     {
       "type": "setup",
