@@ -66,3 +66,49 @@ Paste this url into the module installer of Foundry or search for the module cib
 ```
 https://raw.githubusercontent.com/Cibola8/cibola8/main/module.json
 ```
+
+## Api
+
+### Hooks
+
+Following hooks are available to intercept prediction requests:
+
+
+#### Image prediction
+
+Event Hook for cibola8.imagePredictionComplete
+
+This hook is triggered after an image prediction has been completed in the cibola8 module.
+
+Parameters:
+- `result`: The result object returned from the image prediction process
+- `document`: The document that should get the generated image
+- `app`: The application instance
+- `options`: Configuration options that were used for the prediction
+
+Example usage:
+Subscribe to this event to perform actions after image prediction is complete, such as post-processing the results or updating UI elements.
+
+```js
+Hooks.on('cibola8.imagePredictionComplete', (result, document, app, options) => {
+    // your code
+});
+```
+
+#### Text prediction (Threads)
+
+This hook is triggered when the text prediction in threads from Cibola8 completes its process.
+
+Parameters:
+- `new_messages` - An array of generated messages or predictions from the text model
+- `document` - The document context associated with the prediction
+- `app` - The application instance that initiated the prediction
+
+Example usage:
+Register a callback function that will be executed when text prediction completes. Use this hook to process or respond to generated text content.
+
+```js
+Hooks.on('cibola8.textPredictionComplete', (new_messages, document, app) => {
+    // your code
+});
+```
